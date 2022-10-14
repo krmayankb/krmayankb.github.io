@@ -2,13 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+[CV](./another-page.html).
 
-There should be whitespace between paragraphs.
+## Short Biography 
+Mayank is `graduate student` in Department of Electrical and Computer Engineering at [University of Washington Seattle](https://www.washington.edu/). He is focusing on Machine Learning and Computer Vision. He completed his undergraduate degree (B.Tech.) In Electrical Engineering from [Indian Institute of Technology(IIT) Ropar](https://www.iitrpr.ac.in/). His research focus is on computer vision, perception, and robotics. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Before joining UW, He worked as `senior engineer` at Mahindra Research Valley, research division of [Mahindra and Mahindra Ltd.](https://auto.mahindra.com/). He has wide ranging of experiences in leading teams, managing third-party suppliers, and working in highly dynamic cross-functional teams. He has developed instrument clusters for passenger as well as commercial segment vehicle that included internal combustion and electric vehicles. 
+
+Mayank is passionate about entrepreneurship. He worked as advisor for ed-tech startup UpBringo. During his undergraduate days, he was actively involved as senior team manager at social-entrepreneurship society [Enactus IIT Ropar](https://www.iitrpr.ac.in/enactus/). He led team for developing and running social-entrepreneurship project across communities around IIT Ropar. He led the team through Annual National Competition held by [Enactus India](https://enactusindia.com/).
 
 # Header 1
 
