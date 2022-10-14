@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-More info: [**CV**](./another-page.html)  | [GitHub](https://github.com/krmayankb).
+[CV](./another-page.html) | [Projects](https://github.com/krmayankb) | [Blog](./another-page.html)
 
 ## Short Biography 
 Mayank is graduate student in Department of Electrical and Computer Engineering at [University of Washington Seattle](https://www.washington.edu/). He is focusing on Machine Learning and Computer Vision. He completed his undergraduate degree (B.Tech.) In Electrical Engineering from [Indian Institute of Technology(IIT) Ropar](https://www.iitrpr.ac.in/). His research focus is on computer vision, perception, and robotics. 
