@@ -4,16 +4,16 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[CV](./another-page.html).
+More info: [**CV**](./another-page.html)  | [GitHub](https://github.com/krmayankb).
 
 ## Short Biography 
-Mayank is `graduate student` in Department of Electrical and Computer Engineering at [University of Washington Seattle](https://www.washington.edu/). He is focusing on Machine Learning and Computer Vision. He completed his undergraduate degree (B.Tech.) In Electrical Engineering from [Indian Institute of Technology(IIT) Ropar](https://www.iitrpr.ac.in/). His research focus is on computer vision, perception, and robotics. 
+Mayank is graduate student in Department of Electrical and Computer Engineering at [University of Washington Seattle](https://www.washington.edu/). He is focusing on Machine Learning and Computer Vision. He completed his undergraduate degree (B.Tech.) In Electrical Engineering from [Indian Institute of Technology(IIT) Ropar](https://www.iitrpr.ac.in/). His research focus is on computer vision, perception, and robotics. 
 
-Before joining UW, He worked as `senior engineer` at Mahindra Research Valley, research division of [Mahindra and Mahindra Ltd.](https://auto.mahindra.com/). He has wide ranging of experiences in leading teams, managing third-party suppliers, and working in highly dynamic cross-functional teams. He has developed instrument clusters for passenger as well as commercial segment vehicle that included internal combustion and electric vehicles. 
+Before joining UW, He worked as senior engineer at Mahindra Research Valley, research division of [Mahindra and Mahindra Ltd.](https://auto.mahindra.com/). He has wide ranging of experiences in leading teams, managing third-party suppliers, and working in highly dynamic cross-functional teams. He has developed instrument clusters for passenger as well as commercial segment vehicle that included internal combustion and electric vehicles. 
 
 Mayank is passionate about entrepreneurship. He worked as advisor for ed-tech startup UpBringo. During his undergraduate days, he was actively involved as senior team manager at social-entrepreneurship society [Enactus IIT Ropar](https://www.iitrpr.ac.in/enactus/). He led team for developing and running social-entrepreneurship project across communities around IIT Ropar. He led the team through Annual National Competition held by [Enactus India](https://enactusindia.com/).
 
-# Header 1
+<!-- # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -123,4 +123,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
